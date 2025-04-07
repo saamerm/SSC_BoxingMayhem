@@ -1,0 +1,10 @@
+{
+  "MLModelCreatorDefinedKey" : {
+    "Prediction Window Size" : "30",
+    "com.apple.createml.app.tag" : "150",
+    "com.apple.coreml.model.preview.type" : "handActionClassifier",
+    "com.apple.createml.app.version" : "6.0 Beta",
+    "Target Frame Rate" : "30.0"
+  },
+  "MLModelAuthorKey" : "Kurnia Kharisma Agung Samiadjie"
+}

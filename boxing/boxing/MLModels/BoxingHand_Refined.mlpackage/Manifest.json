@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "31DF28E6-17F4-4DD1-811E-223BE9E2A83A": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "4404F465-DF0C-4272-96DF-76946DEA9EE3": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "D9E82A0F-516E-4116-86AB-01FE961A3845": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "BoxingHand_Refined.mlmodel",
+            "path": "com.apple.CoreML/BoxingHand_Refined.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "D9E82A0F-516E-4116-86AB-01FE961A3845"
+}
